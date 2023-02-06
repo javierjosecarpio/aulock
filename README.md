@@ -1,2 +1,2 @@
-# aulock
-Informative web for aulock product.
+# jabeslock
+Informative web for jabeslock product.
